@@ -1,2 +1,2 @@
 # java-college
-bantu
+java programs
