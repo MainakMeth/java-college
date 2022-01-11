@@ -34,4 +34,4 @@ class String_delElement {
         System.out.println("String after deletion of " + m + "th element: " + new_str);        
     } // end of main(String[])
 } // end of class String_delElement
-// input Mainak n
+// input Mainak 3 
