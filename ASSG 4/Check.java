@@ -1,4 +1,4 @@
-//Question 1
+//Question 2
 abstract class Parent{
 	 abstract void m1();
 	 abstract void m2();
